@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BumptyRun", "BumptyRun\BumptyRun\BumptyRun.csproj", "{2F5DBE64-A7C8-4B3A-9C8C-6FA4492DE2AE}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "BumptyRunContent", "BumptyRun\BumptyRunContent\BumptyRunContent.contentproj", "{18975C92-05CC-4EA1-B3D2-AD19A9E6FC2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F5DBE64-A7C8-4B3A-9C8C-6FA4492DE2AE}.Debug|x86.ActiveCfg = Debug|x86
+		{2F5DBE64-A7C8-4B3A-9C8C-6FA4492DE2AE}.Debug|x86.Build.0 = Debug|x86
+		{2F5DBE64-A7C8-4B3A-9C8C-6FA4492DE2AE}.Release|x86.ActiveCfg = Release|x86
+		{2F5DBE64-A7C8-4B3A-9C8C-6FA4492DE2AE}.Release|x86.Build.0 = Release|x86
+		{18975C92-05CC-4EA1-B3D2-AD19A9E6FC2B}.Debug|x86.ActiveCfg = Debug|x86
+		{18975C92-05CC-4EA1-B3D2-AD19A9E6FC2B}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
